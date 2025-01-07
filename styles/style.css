@@ -1,0 +1,14 @@
+
+footer{
+    text-align: center;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+fieldset{
+    border: none;
+}
+main{
+    margin-left: 10px;
+}
